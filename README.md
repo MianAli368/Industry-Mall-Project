@@ -1,6 +1,7 @@
 # Industry-Mall-Project
 
-
+# Note
+This is my Company Project. I cannot upload it publicaly. I can show you my code during the interview.
 
 # Desciption
 Industry Mall is a Complete Multi Vendor Eccomerce Mobile Application for selling parts of big machines online in international market.
